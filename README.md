@@ -7,7 +7,11 @@ The source code for contact management system project in C is complete and total
 
 About Contact Management System in C :
 File handling, data structure, functions, and pointers are the main things which make up this mini project.I have divided this C mini project into many functions, most of which are related to different activities. Listed below are some of the more important functions which may help you understand the project better.
+
+
+
 The basic user-defined functions used in this project are listed below :-
+
 new_contact() – This function add contact in file
 display() - This function displays all the contacts stored in file with their respective contact details
 del_contact() – This function deletes contacts from file
